@@ -10,7 +10,7 @@ authors:
 superuser: false
 
 # Role/position
-role: Chief Snuggler
+role: Snuggler in Chief
 
 # Organizations/Affiliations
 organizations:

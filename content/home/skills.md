@@ -26,4 +26,4 @@ title = "Research Areas"
   icon_pack = "fad"
   name = "Urban Energy Demand"
   description = "We are interested in the effect of transportation and land decision making on the use of energy in urban environments."
-  +++
++++

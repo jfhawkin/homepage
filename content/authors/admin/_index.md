@@ -10,7 +10,7 @@ authors:
 superuser: true
 
 # Role/position
-role: Ph.D. Candidate in Civil & Mineral Engineering
+role: Aspiring Assistant Professor in Transportation Engineering and Planning
 
 # Organizations/Affiliations
 organizations:
@@ -18,12 +18,7 @@ organizations:
   url: ""
 
 # Short bio (displayed in user profile at end of posts)
-bio: My research interests include transportation demand analysis, land use modelling, applied econometrics, and environmental economics.
-
-interests:
-- History
-- Climate change
-- Science fiction
+bio: Jason Hawkins is an aspiring Assistant Professor in Transportation Engineering and Planning at the University of XXX
 
 education:
   courses:
@@ -66,4 +61,8 @@ user_groups:
 - Principal Investigators
 ---
 
-Lorem ipsum dolor sit amet, consectetur adipiscing elit. Sed neque elit, tristique placerat feugiat ac, facilisis vitae arcu. Proin eget egestas augue. Praesent ut sem nec arcu pellentesque aliquet. Duis dapibus diam vel metus tempus vulputate. 
+# Body text
+(Professor) Jason Hawkins is an expert in the field of econometric modelling of household interactions and their impacts on transportation and energy demand.
+
+
+

@@ -4,7 +4,7 @@ name: Jason Hawkins
 
 # Username (this should match the folder name)
 authors:
-- admin
+- hawkins-j
 
 # Is this the primary user of the site?
 superuser: true
@@ -61,7 +61,6 @@ user_groups:
 - Principal Investigators
 ---
 
-# Body text
 (Professor) Jason Hawkins is an expert in the field of econometric modelling of household interactions and their impacts on transportation and energy demand.
 
 

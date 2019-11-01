@@ -17,9 +17,6 @@ organizations:
 - name: University of XXX
   url: ""
 
-# Short bio (displayed in user profile at end of posts)
-bio: You have a strong background in quantitative analysis in areas such as Civil Engineering, Statistics, GIS, Economics, or Computer Science. You are passionate about urban issues and ensuring a sustainable and equitable future.
-
 # Social/Academic Networking
 # For available icons, see: https://sourcethemes.com/academic/docs/widgets/#icons
 #   For an email link, use "fas" icon pack, "envelope" icon, and a link in the
@@ -42,3 +39,4 @@ email: ""
 user_groups:
 - Grad Students
 ---
+You have a strong background in quantitative analysis in areas such as Civil Engineering, Statistics, GIS, Economics, or Computer Science. You are passionate about urban issues and ensuring a sustainable and equitable future.
